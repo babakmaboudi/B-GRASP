@@ -272,8 +272,6 @@ from SPDE-Inspired Dynamics},
 }
 ```
 
-Please replace the placeholder above with the final bibliographic information for the paper.
-
 ## License
 
 BSD-3
