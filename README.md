@@ -1,4 +1,4 @@
-# B-GRASP: Bayesian inference of graph weights
+# B-GRASP: Bayesian GRAph Inference with SPDE priors
 
 Code accompanying our paper on Bayesian inference of graph weights. The repository contains the forward graph models, synthetic-data generation, MAP estimation, posterior sampling, and plotting scripts used for the numerical experiments.
 
@@ -260,11 +260,15 @@ The resulting PDFs are written to `plots/`.
 If you use this code, please cite the accompanying paper:
 
 ```bibtex
-@article{TODO,
-  title   = {TODO: paper title},
-  author  = {TODO: authors},
-  journal = {TODO},
-  year    = {TODO}
+@misc{schenkmaboudi2026,
+        title   = {B-GRASP: A Bayesian Framework for Inferring Graph Weights
+from SPDE-Inspired Dynamics},
+  author  = {Schenk, Christina and Maboudi Afkham, Babak},
+      year={2026},
+      eprint={},
+      archivePrefix={arXiv},
+      primaryClass={},
+      url={}, 
 }
 ```
 
@@ -272,4 +276,4 @@ Please replace the placeholder above with the final bibliographic information fo
 
 ## License
 
-No repository-level license file was included in the supplied snapshot. Add the intended software license here before public release. Note that individual data/helper files may carry their own attribution or license notices.
+BSD-3
